@@ -2,7 +2,8 @@
 ### The Ultimate "Business-in-a-Box" Solution (Flutter + Node.js)
 
 
-<img width="1920" height="1080" alt="Untitled design (7)" src="https://github.com/user-attachments/assets/44c930e7-1dca-487f-a37b-4481fd42b346" />
+<img width="1920" height="1080" alt="Untitled design (7)" src="https://github.com/user-attachments/assets/65b47571-af62-4b03-855a-a201794b278c" />
+
 
 
 ---
@@ -73,23 +74,26 @@ Have questions before buying?
  
 ****User App**** 
 
-<img width="1920" height="1080" alt="Untitled design (9)" src="https://github.com/user-attachments/assets/5af030f7-66a1-4edc-8359-91cb763e1346" />
+<img width="1920" height="1080" alt="Untitled design (9)" src="https://github.com/user-attachments/assets/1cd13c45-bb23-4188-ae65-b3a5ed95e873" />
+
 
 
 ****Admin App**** 
 
 
-<img width="1920" height="1080" alt="Untitled design (10)" src="https://github.com/user-attachments/assets/b5e0abe8-2d92-49b0-aa48-20722898a1cd" />
+<img width="1920" height="1080" alt="Untitled design (10)" src="https://github.com/user-attachments/assets/c767db92-1040-4474-ac23-3473734b6223" />
+
 
 
 ****Rider App**** 
 
-<img width="1920" height="1080" alt="Untitled design (11)" src="https://github.com/user-attachments/assets/3325eba5-6248-48eb-aed2-bad3bb35274f" />
+<img width="1920" height="1080" alt="Untitled design (11)" src="https://github.com/user-attachments/assets/087f89d2-8c55-416c-bce6-ef9a0e04cbeb" />
 
 
 ****Restaurant App**** 
 
-<img width="1920" height="1080" alt="Untitled design (12)" src="https://github.com/user-attachments/assets/07e12449-b51d-49de-bac3-716d5b2efb6e" />
+
+<img width="1920" height="1080" alt="Untitled design (12)" src="https://github.com/user-attachments/assets/d0179f21-1c77-46b9-8aac-8ac4e2fb35ec" />
 
 
 
